@@ -1,0 +1,2 @@
+﻿Risk ID,Asset,Asset Owner,Risk Description,Threat,Vulnerability,Existing Controls,Likelihood (1-5),Impact (1-5),Risk Score,Risk Level,Recommended Treatment,Risk Owner,Target Date,Status,Residual Likelihood,Residual Impact,Residual Score
+R-001,,,,,,,1,1,=H2*I2,"=IF(J2>=15,""High"",IF(J2>=6,""Medium"",""Low""))",,,Open,1,1,=P2*Q2
